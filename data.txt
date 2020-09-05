@@ -1,0 +1,3 @@
+Name: Thalía
+Age: 23
+Favorite Color: Pink
